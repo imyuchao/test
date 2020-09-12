@@ -1,0 +1,3 @@
+test a dev branch
+git merge --no-ff -m 'message' {branch-name}
+取消快速提交
